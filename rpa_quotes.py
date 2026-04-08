@@ -6,7 +6,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 
 INSTALAÇÃO:
-    pip install requests beautifulsoup4 openpyxl
+    pip install -r requirements.txt
 
 USO:
     python rpa_quotes.py                → coleta tudo
